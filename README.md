@@ -1,3 +1,3 @@
 # hello-world
 
-THese are the comments I"m dding
+These are the comments I'm adding
